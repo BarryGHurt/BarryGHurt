@@ -1,6 +1,8 @@
-### Good Day
+# Good Day
 
-# Currently learning - 
+---
+
+## Currently learning - 
    * GStreamer
    * Rust
    
