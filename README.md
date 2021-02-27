@@ -15,7 +15,7 @@ It can be a challenge to keep up with tech, but it's worth the struggle.
 
 It's nice to have a couple of projects that I never have time to work on. Even though there are better implementations out there, I like to do this sort of thing for my own benefit.
 
-   * BirdBot - Camera pointed at bird feeder, identifies and tallys bird species visiting feeder. Unfortunately, the [squirrels](https://youtu.be/U5erMWZwvI0) took over the feeder.
+   * Birdometer- Camera pointed at bird feeder, identifies and tallys bird species visiting feeder. Unfortunately, the [squirrels](https://youtu.be/U5erMWZwvI0) took over the feeder.
    * Drone Scanner - fly over an area of land, then repeat over time.  I recently got a drone for fun, but realized some parallels with microscopy image management and analyis. 
    
    
